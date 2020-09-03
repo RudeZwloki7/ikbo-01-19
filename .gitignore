@@ -1,0 +1,12 @@
+### Folders ###
+HELP.md
+target/
+!**/src/com/company/**
+**/out/**
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
